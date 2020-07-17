@@ -15,6 +15,7 @@ Com o intuito de estudar a linguagem Python (Ou futuramente outras linguagens), 
 | 3° | [Conversor de Imagem P&B](https://github.com/evertoont/Projetos-diversos/blob/master/conversor_de_imagem_pb.py)| Conversor de cores de uma imagem para preto e branco | Python |
 | 4° | [Relógio Digital](https://github.com/evertoont/Projetos_diversos/blob/master/relogio_digital.py)| Relógio digital com interface gráfica usando o Tkinter | Python |
 | 5° | [Visualizador de Imagem](https://github.com/evertoont/Projetos_diversos/blob/master/visualizador_de_imagem.py)| Visualizador de Imagem usando Tkinter e a Lib Pillow | Python |
+| 6° | [Localizar endereço IP e MAC](https://github.com/evertoont/Projetos_diversos/blob/master/localizar_ip_mac.py)| Script que localiza o endereço IP e MAC da máquina | Python |
 
 
 **Quer ajudar a construir este repositório? Envie uma pull request com sua contribuição** :wink:
