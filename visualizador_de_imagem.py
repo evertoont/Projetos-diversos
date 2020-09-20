@@ -1,3 +1,9 @@
+'''
+- Necessário instalar a lib Pillow
+- pip install Pillow
+
+'''
+
 import tkinter as tk
 from PIL import Image, ImageTk
 

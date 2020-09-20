@@ -1,3 +1,9 @@
+'''
+- Necessário instalar a libs getmac
+- pip install getmac
+
+'''
+
 import tkinter as tk
 from tkinter.messagebox import showinfo
 from getmac import getmac

@@ -1,3 +1,9 @@
+'''
+- Necessário instalar a lib Pillow
+- pip install Pillow
+
+'''
+
 from PIL import Image
 
 def converter(caminho):
