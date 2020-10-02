@@ -34,13 +34,13 @@ def main():
         os.system("cls || clear")
 
         opcao = int(input('''
-        [1] Salvar arquivo de audio
-        [2] Apenas ouvir o audio 
+        [1] Salvar arquivo de áudio
+        [2] Apenas ouvir o áudio 
         
         Escolha sua opção: '''))
 
         if opcao == 1 or opcao == 2:
-            texto = input("\nDigite o que você deseja ouvir/salvar em audio: ")
+            texto = input("\nDigite o que você deseja ouvir/salvar em áudio: ")
             break
         else:
             continue
